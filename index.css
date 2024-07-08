@@ -21,7 +21,7 @@ ul {
   align-items: center;
   margin: 0;
   padding: 25px;
-  gap: 10px;
+  gap: 10px
 }
 
 li {
@@ -30,6 +30,10 @@ li {
 
 .icon {
   width: 25px;
+}
+
+.align-right {
+  margin-left: auto;
 }
 
 h1 {
